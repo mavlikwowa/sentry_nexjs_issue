@@ -1,0 +1,14 @@
+{
+	"api": "https://XXXXXXXXXXX.ru",
+	"apiInternal": "https://XXXXXXXXXXX.ru",
+	"staticServer": "https://XXXXXXXXXXX.ru",
+	"sentryUrl": "https://xxxxxxxxxxxxxxxxxxxxx@XXXXXXXXXXX/2",
+	"revalidateStaticPeriod": 600,
+	"previewSecret": "previewsecret",
+	"chat": {
+		"api": "https://chats.itmh.ru/api",
+		"js": "/static/chat/chatsBot.js",
+		"token": "xxx-xxx-xxx-xxx-xxxxx",
+		"channelId": "xxxxx-xxxxx-xxxxx-xxxxx-xxxxxxx"
+	}
+}
